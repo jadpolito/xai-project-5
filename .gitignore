@@ -1,0 +1,14 @@
+# Data files
+*.zip
+*.npy
+*.csv
+*.jpg
+*.jpeg
+*.png
+
+# Python/cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
