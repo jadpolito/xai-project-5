@@ -1,0 +1,3 @@
+concept,image_count,neighbor_checks,same_concept_neighbor_count,concept_consistency
+bilateral lung opacities,2414,12070,11614,0.9622203811101906
+left lung opacity,2430,12150,9514,0.7830452674897119

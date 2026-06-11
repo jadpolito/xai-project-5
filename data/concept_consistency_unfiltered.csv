@@ -1,0 +1,6 @@
+concept,image_count,neighbor_checks,same_concept_neighbor_count,concept_consistency
+left lung opacity,2997,14985,14967,0.9987987987987988
+bilateral lung opacities,2878,14390,14195,0.9864489228630994
+small pneumothorax,2340,11700,9002,0.7694017094017094
+left pneumothorax,1570,7850,4393,0.5596178343949044
+left lower lobe consolidation,52,260,24,0.09230769230769231

@@ -1,0 +1,1025 @@
+neuron,concept,score,margin,status,mean_activation,max_activation,active_fraction,top_candidates
+0,ambiguous,0.351749986410141,0.0004711449146270752,ambiguous,0.019083470106124878,0.07575283944606781,0.9273333333333333,small pneumothorax=0.352; left pneumothorax=0.351; left lung opacity=0.351; pneumothorax=0.349; right pneumothorax=0.349
+1,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+2,ambiguous,0.352084219455719,0.001477569341659546,ambiguous,0.017728278413414955,0.06544478237628937,0.9376666666666666,left lung opacity=0.352; bilateral lung opacities=0.351; right lung opacity=0.350; small pneumothorax=0.350; left lower lobe consolidation=0.350
+3,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+4,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+5,ambiguous,0.35006263852119446,9.289383888244629e-05,ambiguous,0.01590321771800518,0.059541016817092896,0.9246666666666666,small pneumothorax=0.350; left lung opacity=0.350; left lower lobe consolidation=0.349; left pneumothorax=0.349; bilateral lung opacities=0.348
+6,ambiguous,0.35367363691329956,1.7464160919189453e-05,ambiguous,0.0097861522808671,0.04951619729399681,0.9133333333333333,left pneumothorax=0.354; small pneumothorax=0.354; left lung opacity=0.352; pneumothorax=0.352; right pneumothorax=0.352
+7,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+8,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+9,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+10,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+11,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+12,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+13,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+14,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+15,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+16,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+17,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+18,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+19,ambiguous,0.352864533662796,0.0010316669940948486,ambiguous,0.014363600872457027,0.05638408660888672,0.9203333333333333,left lung opacity=0.353; bilateral lung opacities=0.352; left pneumothorax=0.351; small pneumothorax=0.351; right lung opacity=0.350
+20,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+21,ambiguous,0.35216766595840454,0.0004692673683166504,ambiguous,0.03244456648826599,0.11133179068565369,0.9746666666666667,small pneumothorax=0.352; left pneumothorax=0.352; left lower lobe consolidation=0.352; left lung opacity=0.350; chest tube=0.350
+22,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+23,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+24,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+25,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+26,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+27,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+28,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+29,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+30,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+31,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+32,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+33,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+34,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+35,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+36,bilateral lung opacities,0.35803064703941345,0.002644091844558716,assigned,0.02079695835709572,0.050364620983600616,0.926,bilateral lung opacities=0.358; left lung opacity=0.355; right lung opacity=0.354; left lower lobe consolidation=0.351; small pneumothorax=0.349
+37,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+38,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+39,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+40,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+41,ambiguous,0.355618417263031,0.0007507801055908203,ambiguous,0.019053269177675247,0.07959623634815216,0.947,left pneumothorax=0.356; left lung opacity=0.355; small pneumothorax=0.354; bilateral lung opacities=0.353; pneumothorax=0.353
+42,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+43,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+44,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+45,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+46,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+47,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+48,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+49,ambiguous,0.35120904445648193,0.0011910200119018555,ambiguous,0.022623321041464806,0.09319484978914261,0.9623333333333334,left pneumothorax=0.351; small pneumothorax=0.350; left lung opacity=0.349; pneumothorax=0.348; right pneumothorax=0.348
+50,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+51,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+52,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+53,ambiguous,0.35477811098098755,0.0003794431686401367,ambiguous,0.01287792343646288,0.06191818416118622,0.926,small pneumothorax=0.355; left lung opacity=0.354; left pneumothorax=0.353; right lung opacity=0.353; right pneumothorax=0.353
+54,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+55,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+56,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+57,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+58,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+59,ambiguous,0.35799509286880493,0.0015758275985717773,ambiguous,0.01774631068110466,0.07645805925130844,0.9316666666666666,left lung opacity=0.358; right lung opacity=0.356; bilateral lung opacities=0.356; small pneumothorax=0.356; left pneumothorax=0.356
+60,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+61,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+62,ambiguous,0.3494170308113098,0.0006357133388519287,ambiguous,0.029227426275610924,0.0996183305978775,0.9643333333333334,small pneumothorax=0.349; left lung opacity=0.349; left pneumothorax=0.349; bilateral lung opacities=0.348; left lower lobe consolidation=0.347
+63,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+64,ambiguous,0.3504931926727295,0.001104980707168579,ambiguous,0.016644490882754326,0.08879169076681137,0.9266666666666666,left lung opacity=0.350; small pneumothorax=0.349; left pneumothorax=0.349; bilateral lung opacities=0.348; left lower lobe consolidation=0.348
+65,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+66,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+67,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+68,ambiguous,0.3523964285850525,0.001081317663192749,ambiguous,0.021245144307613373,0.0869813933968544,0.937,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.351; right lung opacity=0.350; pneumothorax=0.350
+69,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+70,ambiguous,0.35137203335762024,0.00097617506980896,ambiguous,0.017879927530884743,0.06600675731897354,0.9216666666666666,left lung opacity=0.351; small pneumothorax=0.350; left pneumothorax=0.350; right lung opacity=0.349; left lower lobe consolidation=0.349
+71,ambiguous,0.3508381247520447,0.00026676058769226074,ambiguous,0.015352270565927029,0.06135796010494232,0.914,left lung opacity=0.351; small pneumothorax=0.351; left pneumothorax=0.350; left lower lobe consolidation=0.349; chest tube=0.348
+72,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+73,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+74,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+75,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+76,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+77,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+78,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+79,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+80,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+81,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+82,ambiguous,0.3515828847885132,0.00025784969329833984,ambiguous,0.007146511226892471,0.044671621173620224,0.8383333333333334,left pneumothorax=0.352; left lung opacity=0.351; small pneumothorax=0.351; left lower lobe consolidation=0.350; bilateral lung opacities=0.349
+83,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+84,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+85,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+86,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+87,ambiguous,0.35185927152633667,0.0005328655242919922,ambiguous,0.017887890338897705,0.060472577810287476,0.9316666666666666,left lung opacity=0.352; bilateral lung opacities=0.351; left lower lobe consolidation=0.350; right lung opacity=0.350; left pneumothorax=0.349
+88,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+89,ambiguous,0.3533512353897095,0.0013450980186462402,ambiguous,0.02502092532813549,0.09402447938919067,0.957,left lung opacity=0.353; small pneumothorax=0.352; left pneumothorax=0.352; bilateral lung opacities=0.351; right lung opacity=0.351
+90,left lung opacity,0.35631221532821655,0.002551257610321045,assigned,0.012862131930887699,0.07691555470228195,0.926,left lung opacity=0.356; right lung opacity=0.354; small pneumothorax=0.353; left pneumothorax=0.353; bilateral lung opacities=0.353
+91,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+92,ambiguous,0.3564891815185547,0.00014612078666687012,ambiguous,0.017700400203466415,0.07129111140966415,0.941,left lung opacity=0.356; small pneumothorax=0.356; left pneumothorax=0.356; pneumothorax=0.354; right lung opacity=0.354
+93,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+94,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+95,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+96,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+97,filtered_too_rare,0.0,0.0,too_rare,2.1028816263424233e-05,0.029609082266688347,0.0026666666666666666,
+98,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+99,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+100,ambiguous,0.35465651750564575,0.0004532337188720703,ambiguous,0.01955328695476055,0.056325603276491165,0.9533333333333334,bilateral lung opacities=0.355; left lung opacity=0.354; right lung opacity=0.352; small pneumothorax=0.351; left lower lobe consolidation=0.351
+101,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+102,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+103,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+104,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+105,ambiguous,0.3556171953678131,0.0012823641300201416,ambiguous,0.016407620161771774,0.06984162330627441,0.9203333333333333,left lung opacity=0.356; bilateral lung opacities=0.354; right lung opacity=0.354; small pneumothorax=0.352; left pneumothorax=0.352
+106,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+107,ambiguous,0.35150882601737976,0.0008030235767364502,ambiguous,0.014608334749937057,0.05213812738656998,0.913,left lung opacity=0.352; bilateral lung opacities=0.351; left pneumothorax=0.351; left lower lobe consolidation=0.350; chest tube=0.350
+108,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+109,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+110,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+111,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+112,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+113,ambiguous,0.35209089517593384,0.0003860294818878174,ambiguous,0.02127966098487377,0.06309539079666138,0.947,left lung opacity=0.352; left lower lobe consolidation=0.352; bilateral lung opacities=0.352; small pneumothorax=0.351; left pneumothorax=0.351
+114,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+115,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+116,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+117,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+118,ambiguous,0.3525643050670624,0.0006358325481414795,ambiguous,0.02152249589562416,0.08809466660022736,0.95,left lung opacity=0.353; bilateral lung opacities=0.352; small pneumothorax=0.351; left pneumothorax=0.350; right lung opacity=0.350
+119,ambiguous,0.3505118787288666,0.00014546513557434082,ambiguous,0.011960324831306934,0.05863184854388237,0.909,small pneumothorax=0.351; left pneumothorax=0.350; left lung opacity=0.349; pneumothorax=0.348; right pneumothorax=0.348
+120,left lung opacity,0.35303959250450134,0.0021497011184692383,assigned,0.011877786368131638,0.05973231792449951,0.9043333333333333,left lung opacity=0.353; right lung opacity=0.351; small pneumothorax=0.350; bilateral lung opacities=0.350; left pneumothorax=0.350
+121,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+122,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+123,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+124,ambiguous,0.355974018573761,0.0006414055824279785,ambiguous,0.014489134773612022,0.058180566877126694,0.9053333333333333,left lung opacity=0.356; bilateral lung opacities=0.355; right lung opacity=0.355; small pneumothorax=0.354; left pneumothorax=0.354
+125,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+126,ambiguous,0.3538036644458771,0.0009770691394805908,ambiguous,0.016243895515799522,0.071282297372818,0.9356666666666666,left lung opacity=0.354; left lower lobe consolidation=0.353; small pneumothorax=0.353; left pneumothorax=0.352; bilateral lung opacities=0.352
+127,ambiguous,0.3513260781764984,0.0017657279968261719,ambiguous,0.016218828037381172,0.07276542484760284,0.9323333333333333,left lung opacity=0.351; small pneumothorax=0.350; left pneumothorax=0.349; right lung opacity=0.349; bilateral lung opacities=0.348
+128,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+129,ambiguous,0.35405832529067993,0.00023916363716125488,ambiguous,0.014706969261169434,0.08036445081233978,0.9216666666666666,left lung opacity=0.354; small pneumothorax=0.354; left pneumothorax=0.353; right pneumothorax=0.352; pneumothorax=0.352
+130,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+131,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+132,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+133,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+134,ambiguous,0.35403916239738464,0.0018943548202514648,ambiguous,0.020090894773602486,0.0738738477230072,0.9393333333333334,left lung opacity=0.354; left pneumothorax=0.352; small pneumothorax=0.352; bilateral lung opacities=0.352; right lung opacity=0.352
+135,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+136,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+137,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+138,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+139,left lung opacity,0.35445043444633484,0.002402573823928833,assigned,0.01389233022928238,0.06979652494192123,0.9153333333333333,left lung opacity=0.354; right lung opacity=0.352; bilateral lung opacities=0.352; small pneumothorax=0.351; left pneumothorax=0.350
+140,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+141,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+142,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+143,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+144,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+145,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+146,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+147,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+148,ambiguous,0.3520383834838867,7.200241088867188e-05,ambiguous,0.023940568789839745,0.08631328493356705,0.94,small pneumothorax=0.352; left lung opacity=0.352; left pneumothorax=0.351; right lung opacity=0.349; left lower lobe consolidation=0.349
+149,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+150,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+151,ambiguous,0.3580682873725891,0.00037470459938049316,ambiguous,0.034607239067554474,0.10094545036554337,0.976,bilateral lung opacities=0.358; left lung opacity=0.358; right lung opacity=0.356; left lower lobe consolidation=0.355; left pneumothorax=0.353
+152,ambiguous,0.3576588034629822,0.0010156035423278809,ambiguous,0.011703094467520714,0.04702344536781311,0.9063333333333333,left lung opacity=0.358; bilateral lung opacities=0.357; right lung opacity=0.356; left lower lobe consolidation=0.355; small pneumothorax=0.355
+153,ambiguous,0.3507736623287201,0.0005731880664825439,ambiguous,0.014121020212769508,0.046204064041376114,0.9356666666666666,left lung opacity=0.351; bilateral lung opacities=0.350; right lung opacity=0.349; left lower lobe consolidation=0.348; small pneumothorax=0.348
+154,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+155,ambiguous,0.3553308844566345,0.0013880133628845215,ambiguous,0.015313548967242241,0.05770758539438248,0.937,left lung opacity=0.355; bilateral lung opacities=0.354; right lung opacity=0.353; left pneumothorax=0.351; small pneumothorax=0.351
+156,ambiguous,0.3493100702762604,0.0014663934707641602,ambiguous,0.013780687935650349,0.0676519125699997,0.901,left lung opacity=0.349; small pneumothorax=0.348; left lower lobe consolidation=0.347; left pneumothorax=0.347; bilateral lung opacities=0.347
+157,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+158,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+159,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+160,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+161,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+162,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+163,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+164,ambiguous,0.3533664345741272,0.0008608698844909668,ambiguous,0.009592615999281406,0.05881432071328163,0.892,small pneumothorax=0.353; left lung opacity=0.353; left pneumothorax=0.352; pneumothorax=0.350; right pneumothorax=0.350
+165,ambiguous,0.35565102100372314,0.00030094385147094727,ambiguous,0.019110238179564476,0.07775440812110901,0.9506666666666667,left lung opacity=0.356; bilateral lung opacities=0.355; left pneumothorax=0.354; small pneumothorax=0.354; right lung opacity=0.353
+166,ambiguous,0.35177117586135864,0.0007476508617401123,ambiguous,0.011007350869476795,0.05812305957078934,0.9123333333333333,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.350; right lung opacity=0.349; left lower lobe consolidation=0.349
+167,filtered_always_on,0.0,0.0,always_on,0.11067809164524078,0.2533331513404846,0.997,
+168,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+169,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+170,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+171,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+172,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+173,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+174,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+175,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+176,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+177,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+178,ambiguous,0.3511126637458801,0.00047719478607177734,ambiguous,0.017293086275458336,0.09777675569057465,0.9453333333333334,left pneumothorax=0.351; left lung opacity=0.351; small pneumothorax=0.350; left lower lobe consolidation=0.349; bilateral lung opacities=0.348
+179,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+180,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+181,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+182,ambiguous,0.3580736815929413,0.0010299384593963623,ambiguous,0.017794491723179817,0.06565266102552414,0.9203333333333333,left lung opacity=0.358; bilateral lung opacities=0.357; right lung opacity=0.356; left pneumothorax=0.356; small pneumothorax=0.356
+183,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+184,ambiguous,0.3534834384918213,0.000926584005355835,ambiguous,0.01615029014647007,0.06932768225669861,0.9376666666666666,left lung opacity=0.353; small pneumothorax=0.353; right lung opacity=0.351; bilateral lung opacities=0.351; left pneumothorax=0.351
+185,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+186,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+187,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+188,ambiguous,0.3494529128074646,0.0003070831298828125,ambiguous,0.013970761559903622,0.07413095980882645,0.942,left pneumothorax=0.349; small pneumothorax=0.349; left lung opacity=0.349; pneumothorax=0.347; right pneumothorax=0.347
+189,ambiguous,0.35344403982162476,0.00048792362213134766,ambiguous,0.028862040489912033,0.08246689289808273,0.9716666666666667,bilateral lung opacities=0.353; left lung opacity=0.353; left lower lobe consolidation=0.351; right lung opacity=0.351; left pneumothorax=0.350
+190,ambiguous,0.3541194200515747,0.001865386962890625,ambiguous,0.008260762318968773,0.041713785380125046,0.8606666666666667,left lung opacity=0.354; small pneumothorax=0.352; right lung opacity=0.352; left pneumothorax=0.352; left lower lobe consolidation=0.351
+191,ambiguous,0.3529738187789917,0.0006785690784454346,ambiguous,0.008638633415102959,0.045061297714710236,0.882,left lung opacity=0.353; small pneumothorax=0.352; left pneumothorax=0.352; right lung opacity=0.351; right pneumothorax=0.351
+192,ambiguous,0.35010838508605957,0.0003853738307952881,ambiguous,0.014734124764800072,0.05554584041237831,0.938,small pneumothorax=0.350; left pneumothorax=0.350; left lung opacity=0.349; right pneumothorax=0.348; pneumothorax=0.348
+193,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+194,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+195,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+196,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+197,ambiguous,0.35029566287994385,5.841255187988281e-06,ambiguous,0.01765238679945469,0.07867853343486786,0.9196666666666666,left lung opacity=0.350; left pneumothorax=0.350; small pneumothorax=0.350; left lower lobe consolidation=0.349; chest tube=0.348
+198,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+199,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+200,ambiguous,0.34935319423675537,0.00044277310371398926,ambiguous,0.015007292851805687,0.05857955291867256,0.9306666666666666,left pneumothorax=0.349; small pneumothorax=0.349; left lung opacity=0.348; left lower lobe consolidation=0.347; pneumothorax=0.347
+201,ambiguous,0.3536279499530792,0.0002613961696624756,ambiguous,0.014903844334185123,0.04557463526725769,0.9423333333333334,left lung opacity=0.354; small pneumothorax=0.353; bilateral lung opacities=0.353; left lower lobe consolidation=0.353; left pneumothorax=0.352
+202,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+203,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+204,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+205,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+206,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+207,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+208,ambiguous,0.3497546911239624,0.0007082223892211914,ambiguous,0.018050508573651314,0.09502207487821579,0.9446666666666667,small pneumothorax=0.350; left pneumothorax=0.349; left lung opacity=0.348; right pneumothorax=0.347; pneumothorax=0.347
+209,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+210,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+211,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+212,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+213,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+214,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+215,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+216,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+217,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+218,ambiguous,0.3533216118812561,0.0014209747314453125,ambiguous,0.021518653258681297,0.0867040753364563,0.948,left lung opacity=0.353; small pneumothorax=0.352; left pneumothorax=0.352; bilateral lung opacities=0.352; right lung opacity=0.351
+219,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+220,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+221,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+222,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+223,ambiguous,0.35326647758483887,0.0019886791706085205,ambiguous,0.022653955966234207,0.08889375627040863,0.9543333333333334,small pneumothorax=0.353; left pneumothorax=0.351; right pneumothorax=0.350; pneumothorax=0.350; left lower lobe consolidation=0.350
+224,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+225,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+226,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+227,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+228,ambiguous,0.35365554690361023,0.00030109286308288574,ambiguous,0.017122840508818626,0.07799124717712402,0.9423333333333334,left pneumothorax=0.354; small pneumothorax=0.353; left lung opacity=0.352; pneumothorax=0.351; right pneumothorax=0.351
+229,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+230,ambiguous,0.3547500967979431,9.417533874511719e-06,ambiguous,0.011613501235842705,0.05673854053020477,0.903,small pneumothorax=0.355; left lung opacity=0.355; left pneumothorax=0.355; left lower lobe consolidation=0.353; right pneumothorax=0.353
+231,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+232,ambiguous,0.35479360818862915,0.0010397136211395264,ambiguous,0.015010055154561996,0.05797460675239563,0.9276666666666666,left pneumothorax=0.355; small pneumothorax=0.354; left lung opacity=0.353; pneumothorax=0.352; right pneumothorax=0.352
+233,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+234,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+235,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+236,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+237,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+238,ambiguous,0.35525569319725037,0.0012386143207550049,ambiguous,0.030774256214499474,0.10064955055713654,0.9626666666666667,left lung opacity=0.355; small pneumothorax=0.354; right lung opacity=0.354; left pneumothorax=0.354; bilateral lung opacities=0.353
+239,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+240,ambiguous,0.3540534973144531,0.0011484920978546143,ambiguous,0.01257997378706932,0.0777847021818161,0.9336666666666666,left lung opacity=0.354; small pneumothorax=0.353; right lung opacity=0.352; left pneumothorax=0.351; chest tube=0.351
+241,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+242,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+243,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+244,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+245,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+246,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+247,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+248,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+249,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+250,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+251,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+252,ambiguous,0.3529805839061737,0.0008981525897979736,ambiguous,0.014741542749106884,0.061098627746105194,0.9403333333333334,left lung opacity=0.353; small pneumothorax=0.352; left pneumothorax=0.351; right lung opacity=0.351; left lower lobe consolidation=0.350
+253,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+254,ambiguous,0.35162267088890076,0.000981837511062622,ambiguous,0.012308667413890362,0.05154488980770111,0.9096666666666666,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.350; bilateral lung opacities=0.350; left lower lobe consolidation=0.349
+255,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+256,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+257,ambiguous,0.3508352041244507,0.0003860592842102051,ambiguous,0.023544611409306526,0.08057066798210144,0.9483333333333334,small pneumothorax=0.351; left pneumothorax=0.350; right pneumothorax=0.349; left lung opacity=0.348; pneumothorax=0.348
+258,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+259,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+260,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+261,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+262,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+263,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+264,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+265,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+266,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+267,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+268,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+269,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+270,ambiguous,0.3528618812561035,0.0014450252056121826,ambiguous,0.018450433388352394,0.07449447363615036,0.9436666666666667,left lung opacity=0.353; small pneumothorax=0.351; bilateral lung opacities=0.351; right lung opacity=0.351; left pneumothorax=0.351
+271,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+272,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+273,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+274,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+275,ambiguous,0.34887269139289856,0.0018820464611053467,ambiguous,0.013045959174633026,0.05925656482577324,0.9113333333333333,left lung opacity=0.349; small pneumothorax=0.347; chest tube=0.347; bilateral lung opacities=0.346; right lung opacity=0.346
+276,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+277,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+278,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+279,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+280,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+281,ambiguous,0.35133352875709534,0.00047144293785095215,ambiguous,0.015485045500099659,0.07566411793231964,0.9303333333333333,small pneumothorax=0.351; left pneumothorax=0.351; left lung opacity=0.350; pneumothorax=0.349; right pneumothorax=0.349
+282,ambiguous,0.3523719906806946,0.00025200843811035156,ambiguous,0.017813533544540405,0.07269656658172607,0.951,left lung opacity=0.352; left pneumothorax=0.352; small pneumothorax=0.352; right pneumothorax=0.350; right lung opacity=0.350
+283,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+284,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+285,ambiguous,0.3544654846191406,0.001394510269165039,ambiguous,0.012373044155538082,0.05847994238138199,0.9226666666666666,small pneumothorax=0.354; left pneumothorax=0.353; left lung opacity=0.353; pneumothorax=0.352; right pneumothorax=0.351
+286,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+287,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+288,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+289,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+290,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+291,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+292,ambiguous,0.34864842891693115,0.000723719596862793,ambiguous,0.022190043702721596,0.0985022634267807,0.9443333333333334,left lung opacity=0.349; small pneumothorax=0.348; left pneumothorax=0.347; left lower lobe consolidation=0.347; right lung opacity=0.346
+293,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+294,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+295,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+296,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+297,ambiguous,0.35499632358551025,0.0018437504768371582,ambiguous,0.025847293436527252,0.10174337774515152,0.949,left lung opacity=0.355; right lung opacity=0.353; small pneumothorax=0.353; bilateral lung opacities=0.352; left pneumothorax=0.352
+298,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+299,ambiguous,0.3520070016384125,9.870529174804688e-05,ambiguous,0.01329637411981821,0.060799501836299896,0.908,left lung opacity=0.352; left pneumothorax=0.352; bilateral lung opacities=0.351; small pneumothorax=0.351; left lower lobe consolidation=0.350
+300,ambiguous,0.3534499406814575,0.0005410313606262207,ambiguous,0.009741440415382385,0.046085044741630554,0.9233333333333333,left lung opacity=0.353; small pneumothorax=0.353; left pneumothorax=0.352; right lung opacity=0.351; pneumothorax=0.351
+301,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+302,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+303,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+304,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+305,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+306,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+307,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+308,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+309,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+310,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+311,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+312,ambiguous,0.35379892587661743,0.0006799399852752686,ambiguous,0.020249726250767708,0.08422191441059113,0.9443333333333334,left lung opacity=0.354; left pneumothorax=0.353; small pneumothorax=0.353; bilateral lung opacities=0.352; right lung opacity=0.352
+313,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+314,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+315,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+316,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+317,ambiguous,0.3511674404144287,0.0007095932960510254,ambiguous,0.010277110151946545,0.08440830558538437,0.8866666666666667,left lung opacity=0.351; left pneumothorax=0.350; small pneumothorax=0.350; right lung opacity=0.348; pneumothorax=0.348
+318,filtered_always_on,0.0,0.0,always_on,0.03804665058851242,0.09193573892116547,0.983,
+319,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+320,ambiguous,0.35126829147338867,0.0004444420337677002,ambiguous,0.018165772780776024,0.06774714589118958,0.9373333333333334,left lung opacity=0.351; small pneumothorax=0.351; left pneumothorax=0.350; chest tube=0.349; right lung opacity=0.349
+321,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+322,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+323,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+324,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+325,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+326,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+327,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+328,ambiguous,0.3588479161262512,0.001453697681427002,ambiguous,0.015132753178477287,0.05586837977170944,0.936,left lung opacity=0.359; right lung opacity=0.357; bilateral lung opacities=0.357; small pneumothorax=0.357; left pneumothorax=0.356
+329,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+330,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+331,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+332,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+333,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+334,filtered_always_on,0.0,0.0,always_on,0.16893644630908966,0.38841527700424194,0.9976666666666667,
+335,ambiguous,0.35310977697372437,0.0005838871002197266,ambiguous,0.01805896684527397,0.08175168931484222,0.939,left lung opacity=0.353; bilateral lung opacities=0.353; left pneumothorax=0.352; left lower lobe consolidation=0.351; small pneumothorax=0.351
+336,ambiguous,0.34892964363098145,0.0003809630870819092,ambiguous,0.01847027614712715,0.06510889530181885,0.955,left lung opacity=0.349; small pneumothorax=0.349; left lower lobe consolidation=0.348; left pneumothorax=0.348; bilateral lung opacities=0.347
+337,ambiguous,0.3538220524787903,0.00012767314910888672,ambiguous,0.029971232637763023,0.08560861647129059,0.963,left lung opacity=0.354; bilateral lung opacities=0.354; right lung opacity=0.352; left lower lobe consolidation=0.351; left pneumothorax=0.351
+338,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+339,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+340,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+341,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+342,ambiguous,0.3520544767379761,6.765127182006836e-06,ambiguous,0.011471563950181007,0.0453113317489624,0.9113333333333333,left lung opacity=0.352; left pneumothorax=0.352; small pneumothorax=0.352; left lower lobe consolidation=0.351; pneumothorax=0.350
+343,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+344,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+345,ambiguous,0.3575702905654907,0.0013533830642700195,ambiguous,0.02201683819293976,0.07149989157915115,0.9436666666666667,left lung opacity=0.358; bilateral lung opacities=0.356; right lung opacity=0.356; small pneumothorax=0.354; left pneumothorax=0.354
+346,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+347,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+348,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+349,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+350,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+351,ambiguous,0.3543253540992737,0.0003955960273742676,ambiguous,0.025092478841543198,0.06908906996250153,0.957,bilateral lung opacities=0.354; left lung opacity=0.354; small pneumothorax=0.352; right lung opacity=0.352; left pneumothorax=0.351
+352,ambiguous,0.35253071784973145,0.0007741749286651611,ambiguous,0.017137734219431877,0.07837871462106705,0.952,small pneumothorax=0.353; left pneumothorax=0.352; left lung opacity=0.351; right pneumothorax=0.350; pneumothorax=0.350
+353,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+354,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+355,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+356,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+357,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+358,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+359,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+360,ambiguous,0.35439419746398926,0.0018966197967529297,ambiguous,0.013128151185810566,0.051330361515283585,0.936,left lung opacity=0.354; left pneumothorax=0.352; small pneumothorax=0.352; right lung opacity=0.352; bilateral lung opacities=0.351
+361,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+362,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+363,ambiguous,0.3542807102203369,0.0004673898220062256,ambiguous,0.015176279470324516,0.07443150132894516,0.9326666666666666,left lung opacity=0.354; left pneumothorax=0.354; small pneumothorax=0.353; right lung opacity=0.351; bilateral lung opacities=0.351
+364,ambiguous,0.3428535759449005,0.0008163154125213623,ambiguous,0.00011761867790482938,0.03191361576318741,0.019333333333333334,left pneumothorax=0.343; small pneumothorax=0.342; pneumothorax=0.341; right pneumothorax=0.340; left lung opacity=0.340
+365,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+366,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+367,filtered_always_on,0.0,0.0,always_on,0.08836691081523895,0.261772483587265,0.9943333333333333,
+368,bilateral lung opacities,0.3607766032218933,0.0028638243675231934,assigned,0.039806634187698364,0.08877820521593094,0.9666666666666667,bilateral lung opacities=0.361; left lung opacity=0.358; right lung opacity=0.357; left lower lobe consolidation=0.355; left pneumothorax=0.352
+369,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+370,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+371,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+372,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+373,ambiguous,0.3474368155002594,9.647011756896973e-05,ambiguous,0.022085100412368774,0.09319289028644562,0.952,small pneumothorax=0.347; left pneumothorax=0.347; left lower lobe consolidation=0.346; left lung opacity=0.346; right pneumothorax=0.345
+374,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+375,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+376,ambiguous,0.3565460443496704,0.0016748011112213135,ambiguous,0.029267553240060806,0.12471921741962433,0.9636666666666667,left lung opacity=0.357; bilateral lung opacities=0.355; right lung opacity=0.355; left lower lobe consolidation=0.353; small pneumothorax=0.353
+377,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+378,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+379,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+380,ambiguous,0.35825037956237793,0.00015598535537719727,ambiguous,0.014815257862210274,0.06407395750284195,0.9246666666666666,left lung opacity=0.358; bilateral lung opacities=0.358; right lung opacity=0.357; left pneumothorax=0.355; small pneumothorax=0.355
+381,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+382,ambiguous,0.348614364862442,0.0017855465412139893,ambiguous,0.018212096765637398,0.07678444683551788,0.943,left lung opacity=0.349; small pneumothorax=0.347; right lung opacity=0.346; bilateral lung opacities=0.346; left pneumothorax=0.346
+383,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+384,ambiguous,0.3526160717010498,0.0005674362182617188,ambiguous,0.015574125573039055,0.08632390201091766,0.911,left pneumothorax=0.353; left lung opacity=0.352; small pneumothorax=0.352; right pneumothorax=0.350; pneumothorax=0.350
+385,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+386,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+387,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+388,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+389,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+390,ambiguous,0.3521345555782318,0.0006051361560821533,ambiguous,0.015832390636205673,0.05883944407105446,0.9616666666666667,small pneumothorax=0.352; left pneumothorax=0.352; left lung opacity=0.351; pneumothorax=0.350; right pneumothorax=0.350
+391,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+392,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+393,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+394,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+395,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+396,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+397,ambiguous,0.3489820659160614,0.00028315186500549316,ambiguous,0.010888134129345417,0.07097121328115463,0.867,small pneumothorax=0.349; left pneumothorax=0.349; left lung opacity=0.348; right pneumothorax=0.347; pneumothorax=0.347
+398,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+399,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+400,ambiguous,0.3571234345436096,0.001406550407409668,ambiguous,0.01392361056059599,0.05933485925197601,0.9333333333333333,left lung opacity=0.357; small pneumothorax=0.356; left pneumothorax=0.356; bilateral lung opacities=0.356; right lung opacity=0.355
+401,ambiguous,0.3526580035686493,4.222989082336426e-05,ambiguous,0.014440932311117649,0.06757647544145584,0.917,left lung opacity=0.353; left pneumothorax=0.353; small pneumothorax=0.352; left lower lobe consolidation=0.351; bilateral lung opacities=0.351
+402,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+403,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+404,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+405,left lung opacity,0.35544443130493164,0.0020485520362854004,assigned,0.012895014137029648,0.062016427516937256,0.9383333333333334,left lung opacity=0.355; bilateral lung opacities=0.353; right lung opacity=0.353; left lower lobe consolidation=0.352; chest tube=0.351
+406,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+407,ambiguous,0.34337225556373596,0.00010886788368225098,ambiguous,0.013621549122035503,0.055969901382923126,0.918,small pneumothorax=0.343; left pneumothorax=0.343; left lung opacity=0.343; right pneumothorax=0.341; chest tube=0.341
+408,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+409,left lung opacity,0.3552781343460083,0.002094745635986328,assigned,0.016317877918481827,0.05967946723103523,0.9483333333333334,left lung opacity=0.355; bilateral lung opacities=0.353; right lung opacity=0.353; left pneumothorax=0.353; small pneumothorax=0.353
+410,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+411,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+412,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+413,ambiguous,0.3524688184261322,7.578730583190918e-05,ambiguous,0.012740056030452251,0.04765580594539642,0.8996666666666666,left pneumothorax=0.352; small pneumothorax=0.352; left lung opacity=0.352; bilateral lung opacities=0.351; left lower lobe consolidation=0.351
+414,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+415,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+416,ambiguous,0.35556912422180176,0.000820547342300415,ambiguous,0.01965228095650673,0.07856407016515732,0.945,small pneumothorax=0.356; left pneumothorax=0.355; left lung opacity=0.355; left lower lobe consolidation=0.353; right pneumothorax=0.352
+417,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+418,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+419,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+420,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+421,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+422,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+423,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+424,ambiguous,0.3509156107902527,0.00010627508163452148,ambiguous,0.017024751752614975,0.08810166269540787,0.9283333333333333,small pneumothorax=0.351; left pneumothorax=0.351; left lung opacity=0.350; pneumothorax=0.349; right pneumothorax=0.349
+425,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+426,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+427,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+428,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+429,ambiguous,0.35294124484062195,0.0002732574939727783,ambiguous,0.014453449286520481,0.05048256367444992,0.922,left lung opacity=0.353; left pneumothorax=0.353; small pneumothorax=0.353; bilateral lung opacities=0.352; right lung opacity=0.351
+430,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+431,ambiguous,0.3510706424713135,0.0002493858337402344,ambiguous,0.022404830902814865,0.07002639025449753,0.939,bilateral lung opacities=0.351; left lung opacity=0.351; right lung opacity=0.349; left pneumothorax=0.348; small pneumothorax=0.348
+432,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+433,ambiguous,0.353618860244751,0.0013148784637451172,ambiguous,0.013158285990357399,0.056753914803266525,0.9326666666666666,left lung opacity=0.354; small pneumothorax=0.352; bilateral lung opacities=0.352; left pneumothorax=0.352; right lung opacity=0.352
+434,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+435,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+436,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+437,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+438,ambiguous,0.36107850074768066,0.0013664066791534424,ambiguous,0.01714177057147026,0.10574495792388916,0.9256666666666666,left lung opacity=0.361; bilateral lung opacities=0.360; right lung opacity=0.359; left lower lobe consolidation=0.359; small pneumothorax=0.358
+439,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+440,ambiguous,0.3508438467979431,0.0005451440811157227,ambiguous,0.013217411004006863,0.07905372977256775,0.9053333333333333,left pneumothorax=0.351; small pneumothorax=0.350; left lung opacity=0.350; right pneumothorax=0.348; pneumothorax=0.348
+441,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+442,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+443,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+444,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+445,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+446,ambiguous,0.3538311719894409,0.001924961805343628,ambiguous,0.014162776991724968,0.05828319489955902,0.9263333333333333,left lung opacity=0.354; small pneumothorax=0.352; bilateral lung opacities=0.352; right lung opacity=0.352; left pneumothorax=0.352
+447,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+448,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+449,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+450,ambiguous,0.35357987880706787,0.00021600723266601562,ambiguous,0.013316404074430466,0.058394595980644226,0.9326666666666666,small pneumothorax=0.354; left lung opacity=0.353; left pneumothorax=0.353; pneumothorax=0.351; right lung opacity=0.351
+451,ambiguous,0.3513716161251068,0.00041604042053222656,ambiguous,0.011051825247704983,0.04740976542234421,0.912,left pneumothorax=0.351; small pneumothorax=0.351; left lung opacity=0.350; right pneumothorax=0.349; pneumothorax=0.349
+452,ambiguous,0.34889355301856995,0.0018084943294525146,ambiguous,0.012726048938930035,0.07467637211084366,0.9153333333333333,left lung opacity=0.349; chest tube=0.347; small pneumothorax=0.347; bilateral lung opacities=0.347; right lung opacity=0.346
+453,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+454,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+455,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+456,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+457,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+458,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+459,ambiguous,0.3540658950805664,0.0015352368354797363,ambiguous,0.011496322229504585,0.043059613555669785,0.92,left lung opacity=0.354; left lower lobe consolidation=0.353; left pneumothorax=0.353; small pneumothorax=0.352; bilateral lung opacities=0.352
+460,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+461,ambiguous,0.3536449074745178,0.0005050003528594971,ambiguous,0.013447187840938568,0.05007476359605789,0.915,left lung opacity=0.354; small pneumothorax=0.353; left pneumothorax=0.353; left lower lobe consolidation=0.352; right lung opacity=0.352
+462,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+463,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+464,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+465,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+466,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+467,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+468,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+469,ambiguous,0.3485042452812195,0.0007090866565704346,ambiguous,0.017572397366166115,0.06824837625026703,0.939,left lung opacity=0.349; small pneumothorax=0.348; chest tube=0.347; left pneumothorax=0.347; right lung opacity=0.346
+470,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+471,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+472,ambiguous,0.3517575263977051,0.00019276142120361328,ambiguous,0.011100859381258488,0.051384031772613525,0.9203333333333333,small pneumothorax=0.352; left lung opacity=0.352; left pneumothorax=0.351; right pneumothorax=0.350; pneumothorax=0.349
+473,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+474,ambiguous,0.35687947273254395,0.00025704503059387207,ambiguous,0.017933161929249763,0.06816191971302032,0.9436666666666667,small pneumothorax=0.357; left lung opacity=0.357; left pneumothorax=0.356; right lung opacity=0.355; right pneumothorax=0.355
+475,ambiguous,0.3527759909629822,0.0005292892456054688,ambiguous,0.016896842047572136,0.08677885681390762,0.9336666666666666,left lung opacity=0.353; bilateral lung opacities=0.352; right lung opacity=0.351; left pneumothorax=0.350; left lower lobe consolidation=0.350
+476,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+477,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+478,ambiguous,0.35509753227233887,0.0016357898712158203,ambiguous,0.014164116233587265,0.04985443502664566,0.935,left lung opacity=0.355; bilateral lung opacities=0.353; right lung opacity=0.353; small pneumothorax=0.353; left pneumothorax=0.352
+479,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+480,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+481,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+482,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+483,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+484,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+485,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+486,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+487,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+488,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+489,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+490,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+491,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+492,ambiguous,0.35109376907348633,9.226799011230469e-05,ambiguous,0.014327498152852058,0.05726878345012665,0.9206666666666666,left pneumothorax=0.351; left lung opacity=0.351; small pneumothorax=0.350; bilateral lung opacities=0.350; left lower lobe consolidation=0.349
+493,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+494,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+495,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+496,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+497,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+498,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+499,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+500,ambiguous,0.35075628757476807,0.00020891427993774414,ambiguous,0.010068142786622047,0.047166526317596436,0.881,left pneumothorax=0.351; left lung opacity=0.351; small pneumothorax=0.350; bilateral lung opacities=0.349; left lower lobe consolidation=0.349
+501,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+502,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+503,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+504,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+505,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+506,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+507,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+508,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+509,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+510,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+511,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+512,ambiguous,0.35197708010673523,0.0004550516605377197,ambiguous,0.015522961504757404,0.0711260661482811,0.919,small pneumothorax=0.352; left lung opacity=0.352; left pneumothorax=0.350; pneumothorax=0.350; right lung opacity=0.350
+513,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+514,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+515,ambiguous,0.3523574471473694,0.0010402202606201172,ambiguous,0.010124711319804192,0.062490880489349365,0.8836666666666667,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.350; right lung opacity=0.350; chest tube=0.349
+516,ambiguous,0.3510397672653198,0.001067817211151123,ambiguous,0.018482210114598274,0.09107458591461182,0.9253333333333333,left lung opacity=0.351; left pneumothorax=0.350; small pneumothorax=0.349; chest tube=0.349; right lung opacity=0.348
+517,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+518,ambiguous,0.3498338460922241,0.0007987916469573975,ambiguous,0.0212570708245039,0.09991883486509323,0.9496666666666667,left pneumothorax=0.350; small pneumothorax=0.349; left lung opacity=0.349; pneumothorax=0.348; right pneumothorax=0.347
+519,ambiguous,0.3537852168083191,0.00021860003471374512,ambiguous,0.021283652633428574,0.09195888787508011,0.939,left lung opacity=0.354; small pneumothorax=0.354; left pneumothorax=0.353; right lung opacity=0.351; right pneumothorax=0.351
+520,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+521,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+522,ambiguous,0.36014336347579956,0.0018553733825683594,ambiguous,0.04389721527695656,0.11248248815536499,0.9726666666666667,bilateral lung opacities=0.360; left lung opacity=0.358; right lung opacity=0.357; left lower lobe consolidation=0.353; focal lung opacity=0.352
+523,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+524,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+525,ambiguous,0.353091835975647,0.0001207590103149414,ambiguous,0.00784199871122837,0.05883541330695152,0.876,small pneumothorax=0.353; left pneumothorax=0.353; left lung opacity=0.352; right pneumothorax=0.351; pneumothorax=0.351
+526,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+527,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+528,ambiguous,0.35187408328056335,0.00028592348098754883,ambiguous,0.010079299099743366,0.055207159370183945,0.8903333333333333,left pneumothorax=0.352; small pneumothorax=0.352; left lung opacity=0.351; right pneumothorax=0.350; pneumothorax=0.350
+529,ambiguous,0.3518444299697876,0.0004385709762573242,ambiguous,0.015158694237470627,0.07845593988895416,0.921,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.351; right lung opacity=0.350; chest tube=0.349
+530,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+531,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+532,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+533,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+534,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+535,ambiguous,0.36123380064964294,0.0004971325397491455,ambiguous,0.02452557347714901,0.08688152581453323,0.9463333333333334,bilateral lung opacities=0.361; left lung opacity=0.361; right lung opacity=0.359; left pneumothorax=0.357; small pneumothorax=0.355
+536,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+537,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+538,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+539,ambiguous,0.35187000036239624,0.0011661052703857422,ambiguous,0.012031495571136475,0.053172267973423004,0.943,left lung opacity=0.352; left lower lobe consolidation=0.351; left pneumothorax=0.350; small pneumothorax=0.350; bilateral lung opacities=0.350
+540,ambiguous,0.3537561297416687,0.00011819601058959961,ambiguous,0.015455670654773712,0.04872969537973404,0.9193333333333333,bilateral lung opacities=0.354; left lung opacity=0.354; right lung opacity=0.352; small pneumothorax=0.350; left lower lobe consolidation=0.350
+541,ambiguous,0.35210472345352173,0.0009777247905731201,ambiguous,0.017311541363596916,0.08622294664382935,0.9463333333333334,left pneumothorax=0.352; small pneumothorax=0.351; left lung opacity=0.350; pneumothorax=0.350; right pneumothorax=0.350
+542,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+543,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+544,ambiguous,0.3539101481437683,0.00019979476928710938,ambiguous,0.03172510862350464,0.08593176305294037,0.9696666666666667,left lung opacity=0.354; bilateral lung opacities=0.354; small pneumothorax=0.353; right lung opacity=0.352; left lower lobe consolidation=0.351
+545,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+546,ambiguous,0.35518398880958557,0.001096487045288086,ambiguous,0.018914982676506042,0.048954807221889496,0.9233333333333333,bilateral lung opacities=0.355; left lung opacity=0.354; right lung opacity=0.352; small pneumothorax=0.351; left lower lobe consolidation=0.350
+547,ambiguous,0.3506815731525421,0.00017562508583068848,ambiguous,0.014818250201642513,0.047416843473911285,0.946,small pneumothorax=0.351; left pneumothorax=0.351; left lung opacity=0.350; left lower lobe consolidation=0.350; right pneumothorax=0.348
+548,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+549,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+550,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+551,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+552,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+553,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+554,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+555,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+556,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+557,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+558,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+559,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+560,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+561,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+562,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+563,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+564,ambiguous,0.358970046043396,0.001028299331665039,ambiguous,0.021060854196548462,0.1009291335940361,0.939,bilateral lung opacities=0.359; left lung opacity=0.358; right lung opacity=0.356; left lower lobe consolidation=0.355; focal lung opacity=0.353
+565,ambiguous,0.34939900040626526,0.0005078017711639404,ambiguous,0.022891001775860786,0.1116093099117279,0.964,small pneumothorax=0.349; left pneumothorax=0.349; left lung opacity=0.349; right pneumothorax=0.347; pneumothorax=0.347
+566,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+567,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+568,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+569,ambiguous,0.35601723194122314,0.00021731853485107422,ambiguous,0.020634375512599945,0.09141595661640167,0.9506666666666667,left lung opacity=0.356; small pneumothorax=0.356; left pneumothorax=0.355; left lower lobe consolidation=0.354; right pneumothorax=0.354
+570,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+571,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+572,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+573,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+574,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+575,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+576,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+577,ambiguous,0.3576458692550659,0.00039756298065185547,ambiguous,0.009860558435320854,0.046391475945711136,0.8806666666666667,left lung opacity=0.358; bilateral lung opacities=0.357; small pneumothorax=0.357; right lung opacity=0.356; left pneumothorax=0.356
+578,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+579,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+580,ambiguous,0.3557290732860565,8.031725883483887e-05,ambiguous,0.01790779083967209,0.07462013512849808,0.9336666666666666,bilateral lung opacities=0.356; left lung opacity=0.356; right lung opacity=0.354; left pneumothorax=0.353; small pneumothorax=0.353
+581,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+582,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+583,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+584,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+585,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+586,ambiguous,0.3541789948940277,0.0012208521366119385,ambiguous,0.014882056973874569,0.05868149921298027,0.9253333333333333,left lung opacity=0.354; left lower lobe consolidation=0.353; small pneumothorax=0.353; bilateral lung opacities=0.352; left pneumothorax=0.352
+587,ambiguous,0.35559597611427307,0.0009424984455108643,ambiguous,0.013134079985320568,0.039001282304525375,0.905,bilateral lung opacities=0.356; left lung opacity=0.355; right lung opacity=0.353; left lower lobe consolidation=0.350; left pneumothorax=0.350
+588,ambiguous,0.35051316022872925,0.0017756223678588867,ambiguous,0.023357762023806572,0.07100467383861542,0.9583333333333334,left lung opacity=0.351; small pneumothorax=0.349; left pneumothorax=0.349; bilateral lung opacities=0.349; right lung opacity=0.348
+589,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+590,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+591,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+592,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+593,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+594,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+595,ambiguous,0.35532835125923157,0.0018921494483947754,ambiguous,0.017911575734615326,0.07085208594799042,0.9323333333333333,left lung opacity=0.355; small pneumothorax=0.353; bilateral lung opacities=0.353; left pneumothorax=0.353; right lung opacity=0.353
+596,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+597,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+598,ambiguous,0.3543533682823181,0.001155853271484375,ambiguous,0.013826214708387852,0.06025434285402298,0.9336666666666666,left lung opacity=0.354; small pneumothorax=0.353; left pneumothorax=0.353; bilateral lung opacities=0.352; right lung opacity=0.352
+599,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+600,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+601,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+602,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+603,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+604,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+605,ambiguous,0.35039347410202026,0.0006618797779083252,ambiguous,0.04035848379135132,0.10073085874319077,0.9723333333333334,bilateral lung opacities=0.350; left lung opacity=0.350; right lung opacity=0.347; small pneumothorax=0.347; left pneumothorax=0.347
+606,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+607,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+608,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+609,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+610,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+611,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+612,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+613,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+614,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+615,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+616,ambiguous,0.35003992915153503,1.7881393432617188e-06,ambiguous,0.01918046921491623,0.08457104861736298,0.9353333333333333,small pneumothorax=0.350; left pneumothorax=0.350; left lung opacity=0.350; right pneumothorax=0.348; left lower lobe consolidation=0.348
+617,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+618,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+619,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+620,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+621,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+622,ambiguous,0.3537450432777405,0.00018078088760375977,ambiguous,0.01197242271155119,0.0430348701775074,0.93,left lung opacity=0.354; bilateral lung opacities=0.354; left pneumothorax=0.352; left lower lobe consolidation=0.352; right lung opacity=0.352
+623,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+624,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+625,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+626,ambiguous,0.3599022626876831,0.0009174346923828125,ambiguous,0.011393610388040543,0.04014696180820465,0.9123333333333333,bilateral lung opacities=0.360; left lung opacity=0.359; right lung opacity=0.357; left pneumothorax=0.355; small pneumothorax=0.354
+627,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+628,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+629,ambiguous,0.35129398107528687,0.0011730790138244629,ambiguous,0.016916509717702866,0.09063108265399933,0.9466666666666667,left lung opacity=0.351; left lower lobe consolidation=0.350; small pneumothorax=0.350; bilateral lung opacities=0.350; left pneumothorax=0.350
+630,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+631,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+632,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+633,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+634,ambiguous,0.35596656799316406,0.00022989511489868164,ambiguous,0.020354850217700005,0.08372655510902405,0.9393333333333334,left lung opacity=0.356; small pneumothorax=0.356; right lung opacity=0.355; left pneumothorax=0.354; right pneumothorax=0.354
+635,ambiguous,0.3432929813861847,0.0006930530071258545,ambiguous,0.006351801101118326,0.20278005301952362,0.22766666666666666,left pneumothorax=0.343; small pneumothorax=0.343; pneumothorax=0.341; right pneumothorax=0.340; left lung opacity=0.339
+636,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+637,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+638,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+639,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+640,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+641,ambiguous,0.35168924927711487,0.0004596412181854248,ambiguous,0.024064766243100166,0.09995052218437195,0.9536666666666667,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.351; pneumothorax=0.350; right pneumothorax=0.350
+642,ambiguous,0.359427809715271,0.0005833804607391357,ambiguous,0.01203311700373888,0.05698266252875328,0.9343333333333333,left lung opacity=0.359; bilateral lung opacities=0.359; small pneumothorax=0.358; left pneumothorax=0.358; right lung opacity=0.358
+643,ambiguous,0.3529546856880188,0.0005252957344055176,ambiguous,0.014225903898477554,0.048367246985435486,0.9206666666666666,left lung opacity=0.353; bilateral lung opacities=0.352; small pneumothorax=0.351; right lung opacity=0.351; left pneumothorax=0.351
+644,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+645,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+646,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+647,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+648,ambiguous,0.35294777154922485,0.0005842447280883789,ambiguous,0.02642359957098961,0.09292831271886826,0.962,left pneumothorax=0.353; small pneumothorax=0.352; left lung opacity=0.352; bilateral lung opacities=0.352; pneumothorax=0.351
+649,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+650,ambiguous,0.35333874821662903,0.001442939043045044,ambiguous,0.014498877339065075,0.0862077847123146,0.9216666666666666,small pneumothorax=0.353; left pneumothorax=0.352; left lung opacity=0.352; right pneumothorax=0.351; pneumothorax=0.351
+651,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+652,ambiguous,0.35481560230255127,0.0017197132110595703,ambiguous,0.010803750716149807,0.08075734972953796,0.8946666666666667,left lung opacity=0.355; small pneumothorax=0.353; left pneumothorax=0.353; right lung opacity=0.352; chest tube=0.351
+653,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+654,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+655,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+656,ambiguous,0.35131824016571045,0.0003896057605743408,ambiguous,0.022676020860671997,0.0900428295135498,0.9403333333333334,small pneumothorax=0.351; left lung opacity=0.351; left pneumothorax=0.350; chest tube=0.350; left lower lobe consolidation=0.350
+657,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+658,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+659,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+660,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+661,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+662,ambiguous,0.35630035400390625,0.0005625486373901367,ambiguous,0.013823802582919598,0.0703127458691597,0.924,small pneumothorax=0.356; left pneumothorax=0.356; left lung opacity=0.354; right pneumothorax=0.354; pneumothorax=0.354
+663,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+664,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+665,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+666,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+667,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+668,ambiguous,0.3496948778629303,0.0007964968681335449,ambiguous,0.023043254390358925,0.10744866728782654,0.9486666666666667,left pneumothorax=0.350; left lung opacity=0.349; small pneumothorax=0.349; left lower lobe consolidation=0.347; right pneumothorax=0.346
+669,ambiguous,0.35367295145988464,0.0011815428733825684,ambiguous,0.018405897542834282,0.07721972465515137,0.937,left lung opacity=0.354; small pneumothorax=0.352; left pneumothorax=0.352; right lung opacity=0.351; left lower lobe consolidation=0.350
+670,filtered_always_on,0.0,0.0,always_on,0.058851201087236404,0.2399377077817917,0.9843333333333333,
+671,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+672,ambiguous,0.3608018755912781,0.0010338425636291504,ambiguous,0.013734454289078712,0.0396469421684742,0.9306666666666666,bilateral lung opacities=0.361; left lung opacity=0.360; right lung opacity=0.359; focal lung opacity=0.354; left lower lobe consolidation=0.354
+673,ambiguous,0.3524235785007477,0.0005008280277252197,ambiguous,0.012895215302705765,0.05447389930486679,0.9093333333333333,left lung opacity=0.352; small pneumothorax=0.352; left pneumothorax=0.351; chest tube=0.351; bilateral lung opacities=0.351
+674,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+675,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+676,ambiguous,0.347308874130249,4.443526268005371e-05,ambiguous,0.01125551201403141,0.06044473871588707,0.905,small pneumothorax=0.347; left pneumothorax=0.347; left lung opacity=0.346; right pneumothorax=0.345; pneumothorax=0.345
+677,left lung opacity,0.3533722758293152,0.0021247267723083496,assigned,0.022419026121497154,0.08052661269903183,0.9553333333333334,left lung opacity=0.353; small pneumothorax=0.351; right lung opacity=0.351; bilateral lung opacities=0.351; left pneumothorax=0.351
+678,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+679,ambiguous,0.3476265072822571,0.00013008713722229004,ambiguous,0.012243786826729774,0.048524558544158936,0.9103333333333333,small pneumothorax=0.348; left lung opacity=0.347; left pneumothorax=0.347; left lower lobe consolidation=0.346; chest tube=0.346
+680,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+681,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+682,ambiguous,0.35517528653144836,0.00011298060417175293,ambiguous,0.010313276201486588,0.07597634941339493,0.8753333333333333,small pneumothorax=0.355; left lung opacity=0.355; left pneumothorax=0.354; right lung opacity=0.353; right pneumothorax=0.353
+683,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+684,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+685,ambiguous,0.3573001027107239,8.553266525268555e-05,ambiguous,0.012775279581546783,0.04558990150690079,0.926,left lung opacity=0.357; bilateral lung opacities=0.357; right lung opacity=0.356; left lower lobe consolidation=0.354; left pneumothorax=0.354
+686,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+687,ambiguous,0.3563709855079651,0.0010030269622802734,ambiguous,0.015853727236390114,0.05070120841264725,0.949,left lung opacity=0.356; bilateral lung opacities=0.355; small pneumothorax=0.355; right lung opacity=0.355; left pneumothorax=0.354
+688,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+689,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+690,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+691,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+692,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+693,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+694,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+695,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+696,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+697,ambiguous,0.35168081521987915,0.0003898739814758301,ambiguous,0.01635235920548439,0.11181343346834183,0.9526666666666667,small pneumothorax=0.352; left lung opacity=0.351; left pneumothorax=0.351; right pneumothorax=0.350; pneumothorax=0.349
+698,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+699,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+700,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+701,ambiguous,0.3562234938144684,3.221631050109863e-05,ambiguous,0.02285178191959858,0.08386827260255814,0.9626666666666667,bilateral lung opacities=0.356; left lung opacity=0.356; small pneumothorax=0.355; left lower lobe consolidation=0.355; right lung opacity=0.355
+702,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+703,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+704,filtered_always_on,0.0,0.0,always_on,0.054834965616464615,0.24005742371082306,0.9853333333333333,
+705,ambiguous,0.3545297086238861,0.001390308141708374,ambiguous,0.024958554655313492,0.11375328153371811,0.9516666666666667,left lung opacity=0.355; small pneumothorax=0.353; left pneumothorax=0.353; chest tube=0.352; right lung opacity=0.352
+706,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+707,ambiguous,0.35505545139312744,0.0008971095085144043,ambiguous,0.01673588529229164,0.05171366035938263,0.9483333333333334,left lung opacity=0.355; bilateral lung opacities=0.354; small pneumothorax=0.354; right lung opacity=0.353; left lower lobe consolidation=0.353
+708,left lung opacity,0.3559134006500244,0.002143681049346924,assigned,0.014273295179009438,0.06385787576436996,0.9203333333333333,left lung opacity=0.356; right lung opacity=0.354; bilateral lung opacities=0.353; left pneumothorax=0.353; small pneumothorax=0.352
+709,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+710,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+711,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+712,ambiguous,0.34879767894744873,7.599592208862305e-05,ambiguous,0.02226332016289234,0.10010028630495071,0.9473333333333334,left lung opacity=0.349; small pneumothorax=0.349; left pneumothorax=0.349; left lower lobe consolidation=0.348; chest tube=0.347
+713,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+714,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+715,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+716,filtered_always_on,0.0,0.0,always_on,0.06515225023031235,0.21204666793346405,0.9846666666666667,
+717,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+718,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+719,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+720,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+721,ambiguous,0.3499794602394104,0.0006159543991088867,ambiguous,0.012095618061721325,0.04302896559238434,0.899,left lung opacity=0.350; small pneumothorax=0.349; left pneumothorax=0.349; left lower lobe consolidation=0.349; bilateral lung opacities=0.349
+722,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+723,ambiguous,0.3523752987384796,0.0003714263439178467,ambiguous,0.01091027818620205,0.04855676367878914,0.8693333333333333,left lung opacity=0.352; small pneumothorax=0.352; left pneumothorax=0.351; right lung opacity=0.350; chest tube=0.349
+724,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+725,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+726,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+727,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+728,ambiguous,0.3502298593521118,9.649991989135742e-05,ambiguous,0.018230408430099487,0.0730581134557724,0.9433333333333334,small pneumothorax=0.350; left pneumothorax=0.350; left lung opacity=0.349; left lower lobe consolidation=0.348; right pneumothorax=0.348
+729,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+730,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+731,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+732,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+733,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+734,ambiguous,0.3536481559276581,0.0008776485919952393,ambiguous,0.016979264095425606,0.0653136596083641,0.941,left lung opacity=0.354; small pneumothorax=0.353; left pneumothorax=0.352; left lower lobe consolidation=0.352; bilateral lung opacities=0.352
+735,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+736,ambiguous,0.3509679138660431,0.001049339771270752,ambiguous,0.0128334304317832,0.057068634778261185,0.9076666666666666,small pneumothorax=0.351; left pneumothorax=0.350; left lower lobe consolidation=0.349; left lung opacity=0.348; right pneumothorax=0.348
+737,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+738,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+739,ambiguous,0.35893672704696655,0.001426786184310913,ambiguous,0.016070708632469177,0.06427001953125,0.9443333333333334,left lung opacity=0.359; bilateral lung opacities=0.358; right lung opacity=0.357; small pneumothorax=0.356; left pneumothorax=0.356
+740,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+741,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+742,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+743,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+744,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+745,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+746,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+747,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+748,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+749,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+750,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+751,ambiguous,0.353299617767334,0.0010215044021606445,ambiguous,0.01758103258907795,0.06431880593299866,0.9503333333333334,left lung opacity=0.353; left pneumothorax=0.352; left lower lobe consolidation=0.352; bilateral lung opacities=0.351; small pneumothorax=0.351
+752,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+753,ambiguous,0.3490656614303589,0.0004976391792297363,ambiguous,0.0001330516388406977,0.05452504754066467,0.023666666666666666,left lung opacity=0.349; small pneumothorax=0.349; left pneumothorax=0.347; right pneumothorax=0.346; right lung opacity=0.346
+754,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+755,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+756,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+757,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+758,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+759,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+760,ambiguous,0.35160496830940247,0.0007853507995605469,ambiguous,0.01205800287425518,0.06151212379336357,0.896,left lung opacity=0.352; small pneumothorax=0.351; left pneumothorax=0.350; right lung opacity=0.349; right pneumothorax=0.349
+761,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+762,ambiguous,0.35048890113830566,0.00031048059463500977,ambiguous,0.01559358462691307,0.06793215870857239,0.9426666666666667,left lung opacity=0.350; left lower lobe consolidation=0.350; small pneumothorax=0.350; bilateral lung opacities=0.350; left pneumothorax=0.350
+763,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+764,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+765,ambiguous,0.35474133491516113,0.0003323554992675781,ambiguous,0.016798431053757668,0.06261242926120758,0.9373333333333334,left pneumothorax=0.355; left lung opacity=0.354; small pneumothorax=0.354; bilateral lung opacities=0.354; left lower lobe consolidation=0.353
+766,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+767,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+768,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+769,ambiguous,0.3522830903530121,0.0005070865154266357,ambiguous,0.015153003856539726,0.077705517411232,0.9123333333333333,left lung opacity=0.352; small pneumothorax=0.352; left pneumothorax=0.351; left lower lobe consolidation=0.350; right lung opacity=0.350
+770,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+771,ambiguous,0.354597270488739,7.18235969543457e-05,ambiguous,0.012735147960484028,0.03909947723150253,0.9273333333333333,left lung opacity=0.355; bilateral lung opacities=0.355; right lung opacity=0.353; left lower lobe consolidation=0.352; small pneumothorax=0.352
+772,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+773,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+774,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+775,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+776,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+777,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+778,ambiguous,0.3557173013687134,0.0017461776733398438,ambiguous,0.01030939631164074,0.0467144250869751,0.896,left lung opacity=0.356; small pneumothorax=0.354; bilateral lung opacities=0.354; right lung opacity=0.353; left pneumothorax=0.353
+779,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+780,ambiguous,0.3552485704421997,0.0005952715873718262,ambiguous,0.01604677550494671,0.04753950983285904,0.9353333333333333,left lung opacity=0.355; bilateral lung opacities=0.355; small pneumothorax=0.354; left pneumothorax=0.353; right lung opacity=0.353
+781,ambiguous,0.35886043310165405,2.092123031616211e-05,ambiguous,0.016362885013222694,0.07617861032485962,0.933,left lung opacity=0.359; bilateral lung opacities=0.359; right lung opacity=0.358; small pneumothorax=0.357; left pneumothorax=0.357
+782,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+783,ambiguous,0.35390251874923706,0.00040459632873535156,ambiguous,0.016195209696888924,0.06636213511228561,0.9336666666666666,small pneumothorax=0.354; left pneumothorax=0.353; left lung opacity=0.352; pneumothorax=0.352; right pneumothorax=0.352
+784,ambiguous,0.3512917757034302,0.00040137767791748047,ambiguous,0.0163493063300848,0.06302855163812637,0.938,left lower lobe consolidation=0.351; small pneumothorax=0.351; left pneumothorax=0.350; left lung opacity=0.350; right pneumothorax=0.348
+785,ambiguous,0.35765624046325684,0.0017830729484558105,ambiguous,0.019409243017435074,0.0763055682182312,0.9523333333333334,left lung opacity=0.358; bilateral lung opacities=0.356; right lung opacity=0.356; small pneumothorax=0.354; left lower lobe consolidation=0.353
+786,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+787,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+788,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+789,ambiguous,0.3494083285331726,0.000149458646774292,ambiguous,0.013609074987471104,0.04979686066508293,0.9366666666666666,small pneumothorax=0.349; left lung opacity=0.349; left pneumothorax=0.349; left lower lobe consolidation=0.348; chest tube=0.348
+790,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+791,ambiguous,0.3512922525405884,0.00040328502655029297,ambiguous,0.012690480798482895,0.06850817799568176,0.9313333333333333,small pneumothorax=0.351; left pneumothorax=0.351; left lung opacity=0.350; right pneumothorax=0.349; pneumothorax=0.349
+792,ambiguous,0.35713326930999756,0.0019719600677490234,ambiguous,0.02038840390741825,0.09335722774267197,0.931,left lung opacity=0.357; small pneumothorax=0.355; right lung opacity=0.355; left pneumothorax=0.355; bilateral lung opacities=0.355
+793,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+794,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+795,ambiguous,0.35585951805114746,0.0005918443202972412,ambiguous,0.012794853188097477,0.05099672079086304,0.9143333333333333,left lung opacity=0.356; bilateral lung opacities=0.355; right lung opacity=0.354; left pneumothorax=0.353; left lower lobe consolidation=0.353
+796,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+797,ambiguous,0.3524148762226105,0.0004368126392364502,ambiguous,0.012647809460759163,0.04513190686702728,0.9153333333333333,small pneumothorax=0.352; left lung opacity=0.352; left pneumothorax=0.351; bilateral lung opacities=0.350; right lung opacity=0.350
+798,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+799,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+800,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+801,ambiguous,0.35600703954696655,0.001716911792755127,ambiguous,0.04285465553402901,0.09741415828466415,0.977,bilateral lung opacities=0.356; left lung opacity=0.354; right lung opacity=0.352; left lower lobe consolidation=0.352; left pneumothorax=0.349
+802,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+803,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+804,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+805,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+806,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+807,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+808,ambiguous,0.3542148470878601,0.0008798837661743164,ambiguous,0.008516237139701843,0.05558481812477112,0.8916666666666667,left pneumothorax=0.354; small pneumothorax=0.353; left lung opacity=0.352; pneumothorax=0.351; right pneumothorax=0.351
+809,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+810,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+811,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+812,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+813,ambiguous,0.3573637008666992,0.00014519691467285156,ambiguous,0.028470374643802643,0.09100837260484695,0.962,left lung opacity=0.357; left lower lobe consolidation=0.357; bilateral lung opacities=0.357; right lung opacity=0.356; small pneumothorax=0.355
+814,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+815,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+816,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+817,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+818,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+819,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+820,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+821,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+822,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+823,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+824,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+825,ambiguous,0.356458455324173,0.0010315477848052979,ambiguous,0.012345870025455952,0.059137601405382156,0.913,left lung opacity=0.356; bilateral lung opacities=0.355; small pneumothorax=0.355; right lung opacity=0.354; left pneumothorax=0.354
+826,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+827,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+828,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+829,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+830,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+831,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+832,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+833,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+834,ambiguous,0.3532206416130066,0.0006281435489654541,ambiguous,0.015608206391334534,0.06681797653436661,0.938,left lung opacity=0.353; small pneumothorax=0.353; bilateral lung opacities=0.352; left pneumothorax=0.352; left lower lobe consolidation=0.352
+835,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+836,ambiguous,0.35202574729919434,0.00056418776512146,ambiguous,0.01132380310446024,0.04357967525720596,0.9256666666666666,small pneumothorax=0.352; left pneumothorax=0.351; left lung opacity=0.351; pneumothorax=0.350; right pneumothorax=0.350
+837,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+838,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+839,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+840,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+841,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+842,ambiguous,0.3524605929851532,0.001567244529724121,ambiguous,0.01468990370631218,0.056141242384910583,0.9326666666666666,left lung opacity=0.352; small pneumothorax=0.351; bilateral lung opacities=0.351; right lung opacity=0.350; left pneumothorax=0.350
+843,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+844,ambiguous,0.3534867763519287,0.0004944205284118652,ambiguous,0.012391285970807076,0.04705493152141571,0.935,small pneumothorax=0.353; left pneumothorax=0.353; left lung opacity=0.353; pneumothorax=0.351; right pneumothorax=0.351
+845,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+846,ambiguous,0.3534499704837799,0.00027498602867126465,ambiguous,0.01184710580855608,0.059634752571582794,0.9226666666666666,left lung opacity=0.353; small pneumothorax=0.353; left pneumothorax=0.353; bilateral lung opacities=0.352; pneumothorax=0.351
+847,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+848,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+849,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+850,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+851,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+852,ambiguous,0.34717005491256714,0.0013772249221801758,ambiguous,0.011594230309128761,0.05676907300949097,0.92,small pneumothorax=0.347; left lung opacity=0.346; left pneumothorax=0.346; right pneumothorax=0.344; left lower lobe consolidation=0.344
+853,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+854,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+855,left lung opacity,0.3595799207687378,0.002033710479736328,assigned,0.022509455680847168,0.09966431558132172,0.9483333333333334,left lung opacity=0.360; bilateral lung opacities=0.358; right lung opacity=0.357; left pneumothorax=0.357; small pneumothorax=0.356
+856,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+857,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+858,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+859,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+860,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+861,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+862,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+863,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+864,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+865,ambiguous,0.35328781604766846,0.0015034973621368408,ambiguous,0.01314087025821209,0.04959516227245331,0.912,small pneumothorax=0.353; left lung opacity=0.352; left pneumothorax=0.352; right pneumothorax=0.350; bilateral lung opacities=0.350
+866,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+867,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+868,ambiguous,0.35377711057662964,0.00016066431999206543,ambiguous,0.015300141647458076,0.058631595224142075,0.9436666666666667,left lung opacity=0.354; small pneumothorax=0.354; left pneumothorax=0.352; right lung opacity=0.351; bilateral lung opacities=0.351
+869,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+870,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+871,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+872,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+873,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+874,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+875,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+876,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+877,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+878,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+879,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+880,ambiguous,0.3566712737083435,0.0013840198516845703,ambiguous,0.01734391786158085,0.07417832314968109,0.9343333333333333,left lung opacity=0.357; right lung opacity=0.355; bilateral lung opacities=0.355; small pneumothorax=0.355; left lower lobe consolidation=0.354
+881,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+882,ambiguous,0.3540080189704895,0.001601576805114746,ambiguous,0.010510727763175964,0.044861406087875366,0.919,left lung opacity=0.354; left pneumothorax=0.352; bilateral lung opacities=0.352; small pneumothorax=0.352; right lung opacity=0.351
+883,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+884,ambiguous,0.3538057804107666,0.00015181303024291992,ambiguous,0.02145731821656227,0.08393551409244537,0.9536666666666667,small pneumothorax=0.354; left pneumothorax=0.354; left lung opacity=0.353; chest tube=0.352; right pneumothorax=0.351
+885,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+886,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+887,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+888,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+889,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+890,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+891,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+892,ambiguous,0.34478622674942017,0.00046640634536743164,ambiguous,0.00017538595420774072,0.054018668830394745,0.026,left pneumothorax=0.345; small pneumothorax=0.344; pneumothorax=0.343; right pneumothorax=0.342; left lung opacity=0.340
+893,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+894,ambiguous,0.3562573790550232,0.00021827220916748047,ambiguous,0.011480450630187988,0.06257085502147675,0.906,left lung opacity=0.356; small pneumothorax=0.356; left pneumothorax=0.356; bilateral lung opacities=0.356; pneumothorax=0.354
+895,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+896,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+897,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+898,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+899,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+900,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+901,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+902,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+903,ambiguous,0.3529714047908783,0.0012236237525939941,ambiguous,0.011735704727470875,0.044417914003133774,0.929,left lung opacity=0.353; small pneumothorax=0.352; bilateral lung opacities=0.352; left pneumothorax=0.351; right lung opacity=0.351
+904,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+905,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+906,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+907,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+908,ambiguous,0.3497745096683502,0.001687854528427124,ambiguous,0.024784786626696587,0.10762865841388702,0.9576666666666667,left lung opacity=0.350; left pneumothorax=0.348; small pneumothorax=0.348; right lung opacity=0.347; bilateral lung opacities=0.347
+909,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+910,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+911,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+912,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+913,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+914,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+915,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+916,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+917,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+918,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+919,ambiguous,0.3551328480243683,0.0014696121215820312,ambiguous,0.026058243587613106,0.10231606662273407,0.9576666666666667,left lung opacity=0.355; right lung opacity=0.354; small pneumothorax=0.353; bilateral lung opacities=0.353; left pneumothorax=0.353
+920,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+921,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+922,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+923,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+924,ambiguous,0.3525475263595581,0.0009177625179290771,ambiguous,0.021161295473575592,0.11500094830989838,0.931,left lung opacity=0.353; small pneumothorax=0.352; bilateral lung opacities=0.351; left pneumothorax=0.351; right lung opacity=0.350
+925,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+926,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+927,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+928,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+929,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+930,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+931,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+932,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+933,filtered_too_rare,0.0,0.0,too_rare,2.1618798200506717e-06,0.004723219200968742,0.0006666666666666666,
+934,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+935,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+936,ambiguous,0.36236679553985596,0.0004328787326812744,ambiguous,0.04079452157020569,0.1452113837003708,0.9743333333333334,bilateral lung opacities=0.362; left lung opacity=0.362; right lung opacity=0.361; left lower lobe consolidation=0.359; small pneumothorax=0.357
+937,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+938,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+939,ambiguous,0.3586135804653168,0.00034496188163757324,ambiguous,0.03003816492855549,0.11691132187843323,0.9696666666666667,left lung opacity=0.359; bilateral lung opacities=0.358; right lung opacity=0.358; small pneumothorax=0.354; no pneumothorax=0.353
+940,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+941,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+942,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+943,ambiguous,0.354692280292511,0.0013898909091949463,ambiguous,0.011306827887892723,0.07394635677337646,0.8926666666666667,left lung opacity=0.355; small pneumothorax=0.353; left pneumothorax=0.353; right lung opacity=0.353; bilateral lung opacities=0.353
+944,ambiguous,0.3549724817276001,0.0010543465614318848,ambiguous,0.032007597386837006,0.08959522843360901,0.9696666666666667,bilateral lung opacities=0.355; left lung opacity=0.354; left lower lobe consolidation=0.353; right lung opacity=0.352; left pneumothorax=0.351
+945,ambiguous,0.3525942862033844,0.0003554224967956543,ambiguous,0.015309717506170273,0.08905701339244843,0.9306666666666666,left lung opacity=0.353; small pneumothorax=0.352; left pneumothorax=0.352; right lung opacity=0.350; pneumothorax=0.350
+946,left lung opacity,0.35433709621429443,0.0025809407234191895,assigned,0.013379346579313278,0.06421083211898804,0.911,left lung opacity=0.354; left lower lobe consolidation=0.352; right lung opacity=0.352; bilateral lung opacities=0.352; small pneumothorax=0.350
+947,filtered_always_on,0.0,0.0,always_on,0.08038109540939331,0.17960943281650543,0.985,
+948,ambiguous,0.35341978073120117,0.0004906058311462402,ambiguous,0.020968150347471237,0.05589139461517334,0.958,left lung opacity=0.353; bilateral lung opacities=0.353; right lung opacity=0.351; left pneumothorax=0.351; small pneumothorax=0.351
+949,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+950,ambiguous,0.3533421456813812,0.0010304749011993408,ambiguous,0.014751633629202843,0.06967545300722122,0.9006666666666666,left lung opacity=0.353; bilateral lung opacities=0.352; small pneumothorax=0.352; right lung opacity=0.351; left lower lobe consolidation=0.351
+951,ambiguous,0.35128164291381836,0.00030621886253356934,ambiguous,0.02544030174612999,0.10261136293411255,0.955,left pneumothorax=0.351; small pneumothorax=0.351; pneumothorax=0.349; right pneumothorax=0.349; left lower lobe consolidation=0.349
+952,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+953,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+954,ambiguous,0.3540582060813904,0.00044798851013183594,ambiguous,0.0142325134947896,0.061469629406929016,0.9323333333333333,small pneumothorax=0.354; left pneumothorax=0.354; left lung opacity=0.353; left lower lobe consolidation=0.352; right pneumothorax=0.351
+955,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+956,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+957,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+958,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+959,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+960,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+961,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+962,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+963,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+964,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+965,filtered_always_on,0.0,0.0,always_on,0.11417631059885025,0.2665744721889496,0.9976666666666667,
+966,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+967,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+968,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+969,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+970,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+971,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+972,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+973,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+974,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+975,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+976,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+977,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+978,ambiguous,0.35047662258148193,7.152557373046875e-05,ambiguous,0.014128017239272594,0.06883451342582703,0.94,small pneumothorax=0.350; left pneumothorax=0.350; left lung opacity=0.349; pneumothorax=0.348; right pneumothorax=0.348
+979,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+980,ambiguous,0.35182446241378784,0.0005944967269897461,ambiguous,0.011064128018915653,0.06531859934329987,0.932,small pneumothorax=0.352; left lung opacity=0.351; left pneumothorax=0.351; left lower lobe consolidation=0.350; right pneumothorax=0.349
+981,ambiguous,0.35282039642333984,0.0008525848388671875,ambiguous,0.021975217387080193,0.07562139630317688,0.9483333333333334,left lung opacity=0.353; small pneumothorax=0.352; left pneumothorax=0.351; right lung opacity=0.350; bilateral lung opacities=0.350
+982,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+983,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+984,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+985,ambiguous,0.35354524850845337,0.001083672046661377,ambiguous,0.012590756639838219,0.05576203018426895,0.927,left lung opacity=0.354; small pneumothorax=0.352; left pneumothorax=0.352; left lower lobe consolidation=0.351; right lung opacity=0.351
+986,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+987,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+988,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+989,ambiguous,0.35953187942504883,0.0011870861053466797,ambiguous,0.014854319393634796,0.0656745582818985,0.9213333333333333,left lung opacity=0.360; right lung opacity=0.358; bilateral lung opacities=0.358; small pneumothorax=0.356; left pneumothorax=0.355
+990,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+991,ambiguous,0.3580735921859741,0.0017347931861877441,ambiguous,0.027657655999064445,0.07004982233047485,0.961,bilateral lung opacities=0.358; left lung opacity=0.356; right lung opacity=0.355; left lower lobe consolidation=0.352; small pneumothorax=0.352
+992,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+993,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+994,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+995,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+996,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+997,ambiguous,0.355840802192688,0.0011494159698486328,ambiguous,0.0181313194334507,0.08989139646291733,0.9423333333333334,left lung opacity=0.356; bilateral lung opacities=0.355; right lung opacity=0.354; small pneumothorax=0.354; left pneumothorax=0.353
+998,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+999,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1000,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1001,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1002,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1003,ambiguous,0.35532066226005554,0.0005412399768829346,ambiguous,0.03357087820768356,0.10034780949354172,0.9756666666666667,left lung opacity=0.355; bilateral lung opacities=0.355; small pneumothorax=0.354; left lower lobe consolidation=0.354; left pneumothorax=0.353
+1004,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1005,ambiguous,0.3525879383087158,0.00012370944023132324,ambiguous,0.00860545877367258,0.049857743084430695,0.8833333333333333,small pneumothorax=0.353; left lung opacity=0.352; left pneumothorax=0.352; pneumothorax=0.350; right lung opacity=0.350
+1006,ambiguous,0.34988778829574585,0.000495225191116333,ambiguous,0.022523533552885056,0.10844781994819641,0.9483333333333334,left pneumothorax=0.350; small pneumothorax=0.349; left lung opacity=0.348; left lower lobe consolidation=0.348; pneumothorax=0.347
+1007,ambiguous,0.35084429383277893,0.0007396042346954346,ambiguous,0.02091420441865921,0.09476098418235779,0.948,left lung opacity=0.351; left pneumothorax=0.350; small pneumothorax=0.349; left lower lobe consolidation=0.349; right lung opacity=0.348
+1008,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1009,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1010,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1011,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1012,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1013,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1014,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1015,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1016,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1017,ambiguous,0.3506045937538147,0.0016635656356811523,ambiguous,0.01774086058139801,0.07660045474767685,0.9266666666666666,small pneumothorax=0.351; left lung opacity=0.349; left pneumothorax=0.349; right pneumothorax=0.348; pneumothorax=0.348
+1018,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1019,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1020,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1021,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
+1022,ambiguous,0.3551778793334961,0.001591324806213379,ambiguous,0.013317582197487354,0.06313878297805786,0.9186666666666666,left lung opacity=0.355; small pneumothorax=0.354; left pneumothorax=0.353; right lung opacity=0.353; bilateral lung opacities=0.353
+1023,dead_neuron,0.0,0.0,dead,0.0,0.0,0.0,
