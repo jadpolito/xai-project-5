@@ -1,0 +1,70 @@
+{
+  "pipeline": {
+    "num_images": 3000,
+    "embedding_dim": 512,
+    "num_sae_neurons": 1024,
+    "dead_neurons": 765,
+    "too_rare_neurons": 767,
+    "always_on_neurons": 9,
+    "usable_neurons": 248,
+    "assigned_neurons": 11,
+    "ambiguous_neurons": 237
+  },
+  "image_concepts": {
+    "raw_rows": 9837,
+    "filtered_rows": 4844,
+    "raw_images_with_concepts": 3000,
+    "filtered_images_with_concepts": 2919,
+    "raw_unique_concepts": 5,
+    "filtered_unique_concepts": 2,
+    "raw_mean_concepts_per_image": 3.279,
+    "filtered_mean_concepts_per_image": 1.65947242206235
+  },
+  "semantic_alignment": {
+    "assigned_neurons": 11,
+    "ambiguous_neurons": 237,
+    "mean_assigned_similarity": 0.3560486137866974,
+    "median_assigned_similarity": 0.35544443130493164,
+    "mean_assigned_margin": 0.0023307095874439587,
+    "median_assigned_margin": 0.0021497011184692383,
+    "mean_ambiguous_similarity": 0.3531863971098566,
+    "mean_ambiguous_margin": 0.0007519506955448585
+  },
+  "similar_image_consistency": {
+    "k_neighbors": 5,
+    "mean_filtered_jaccard": 0.7775,
+    "median_filtered_jaccard": 1.0,
+    "mean_raw_jaccard": 0.8060322222222223,
+    "median_raw_jaccard": 0.75
+  },
+  "filtered_generalness": [
+    {
+      "concept": "left lung opacity",
+      "image_count": 2430,
+      "image_fraction": 0.81,
+      "generalness_label": "over_activated"
+    },
+    {
+      "concept": "bilateral lung opacities",
+      "image_count": 2414,
+      "image_fraction": 0.8046666666666666,
+      "generalness_label": "over_activated"
+    }
+  ],
+  "filtered_concept_consistency": [
+    {
+      "concept": "bilateral lung opacities",
+      "image_count": 2414,
+      "neighbor_checks": 12070,
+      "same_concept_neighbor_count": 11614,
+      "concept_consistency": 0.9622203811101906
+    },
+    {
+      "concept": "left lung opacity",
+      "image_count": 2430,
+      "neighbor_checks": 12150,
+      "same_concept_neighbor_count": 9514,
+      "concept_consistency": 0.7830452674897119
+    }
+  ]
+}
