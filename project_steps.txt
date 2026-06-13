@@ -1,0 +1,63 @@
+1. Motivation / Gap
+Automatically discovered concepts in medical VLMs can be useful for
+interpretability, but their reliability is not guaranteed. Concepts may be
+ambiguous, too general, semantically inconsistent, or activated because of
+spurious correlations.
+This gap is aligned with the project description, especially the lack of
+guarantees on semantic validity and stability of discovered concepts.
+2. Main Research Question
+Are automatically discovered concepts in medical images stable, meaningful,
+and reliable across similar samples?
+Optional second question:
+Can simple filtering or consistency checks help remove or flag unreliable
+concepts?
+3. Proposed Setting
+A simplified MedConcept-inspired setting adapted to chest X-ray images:
+• use a pretrained vision or medical vision-language model, such as
+CLIP/BioMedCLIP, as the image and text encoder
+• use a small feasible subset of MIMIC-CXR / MIMIC-CXR-JPG
+• extract image embeddings from the chest X-ray images
+• train a sparse autoencoder on these embeddings, following the SAE-
+based concept discovery idea from Discover-then-Name CBM [12]
+• assign semantic names to the learned SAE neurons/features using
+cosine similarity with a small chest X-ray concept vocabulary
+• analyze the reliability and consistency of the discovered concepts
+• apply a simple filtering step to remove or flag unreliable concepts
+We do not aim to reproduce the full MedConcept pipeline or train a large
+medical VLM. Instead, we focus on a smaller pipeline inspired by
+MedConcept, with our contribution centered on concept reliability evaluation
+and filtering.
+4. Testing Ideas
+Possible tests:
+• Consistency across similar images: similar images or images with
+similar labels should activate similar concepts.
+• Over-activation test: unreliable concepts may activate too often across
+many unrelated samples or labels.
+• Semantic alignment test: assigned concept names should be
+semantically close to the learned SAE features and, when possible,
+coherent with image labels or reports.
+• Before/after filtering: compare generated concept explanations before
+and after removing low-reliability concepts.
+5. Possible Filtering Idea
+Flag or remove concepts that:
+• activate too broadly across unrelated samples
+• are unstable across similar images
+• have weak similarity with their assigned concept name
+• are too generic to be clinically or semantically useful
+• do not align well with available labels or report information, when
+available
+6. Evaluation
+Evaluate using:
+• qualitative examples of generated concept explanations
+• concept consistency score across similar samples
+• semantic alignment score between SAE features and assigned concept
+names
+• over-activation/generalness score
+• number or proportion of filtered unreliable concepts
+• comparison of explanations before vs after filtering
+If feasible, we may also adapt MedConcept-style labels:
+• Aligned
+• Unaligned
+• Uncertain
+However, the main evaluation will focus on lightweight reliability and
+consistency metrics, so the project remains feasible.
