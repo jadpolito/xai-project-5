@@ -1,0 +1,70 @@
+{
+  "pipeline": {
+    "num_images": 3000,
+    "embedding_dim": 512,
+    "num_sae_neurons": 4096,
+    "dead_neurons": 3908,
+    "too_rare_neurons": 3948,
+    "always_on_neurons": 124,
+    "usable_neurons": 24,
+    "assigned_neurons": 11,
+    "ambiguous_neurons": 13
+  },
+  "image_concepts": {
+    "raw_rows": 1,
+    "filtered_rows": 9,
+    "raw_images_with_concepts": 1,
+    "filtered_images_with_concepts": 9,
+    "raw_unique_concepts": 1,
+    "filtered_unique_concepts": 2,
+    "raw_mean_concepts_per_image": 1.0,
+    "filtered_mean_concepts_per_image": 1.0
+  },
+  "semantic_alignment": {
+    "assigned_neurons": 11,
+    "ambiguous_neurons": 13,
+    "mean_assigned_similarity": 0.3537895435636694,
+    "median_assigned_similarity": 0.35452163219451904,
+    "mean_assigned_margin": 0.002414437857541171,
+    "median_assigned_margin": 0.001593083143234253,
+    "mean_ambiguous_similarity": 0.3470242779988509,
+    "mean_ambiguous_margin": 0.0005632524306957538
+  },
+  "similar_image_consistency": {
+    "k_neighbors": 5,
+    "mean_filtered_jaccard": 0.9968666666666667,
+    "median_filtered_jaccard": 1.0,
+    "mean_raw_jaccard": 0.9996666666666667,
+    "median_raw_jaccard": 1.0
+  },
+  "filtered_generalness": [
+    {
+      "concept": "left lung opacity",
+      "image_count": 7,
+      "image_fraction": 0.0023333333333333335,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "small pneumothorax",
+      "image_count": 2,
+      "image_fraction": 0.0006666666666666666,
+      "generalness_label": "specific"
+    }
+  ],
+  "filtered_concept_consistency": [
+    {
+      "concept": "left lung opacity",
+      "image_count": 7,
+      "neighbor_checks": 35,
+      "same_concept_neighbor_count": 0,
+      "concept_consistency": 0.0
+    },
+    {
+      "concept": "small pneumothorax",
+      "image_count": 2,
+      "neighbor_checks": 10,
+      "same_concept_neighbor_count": 0,
+      "concept_consistency": 0.0
+    }
+  ]
+}

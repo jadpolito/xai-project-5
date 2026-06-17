@@ -1,0 +1,30 @@
+2. Suggested Summary Approach
+  To evaluate the success of the model and the "trustworthiness" of the extracted concepts, I suggest focusing on these four pillars:
+
+  A. Model Efficiency (Capacity vs. Sparsity)
+  Check the pipeline section of the reliability_report.json.
+   * Metric: Usable Neurons / Total Neurons.
+   * Observation: In your current data, only 24 out of 4096 neurons (0.5%) are usable, and ~3900 are "dead." This indicates the model is extremely sparse or the L1 penalty is too high, meaning only a very small subset of the SAE's
+     capacity is actually learning features.
+
+  B. Semantic Clarity (Alignment)
+  Look at the semantic_alignment stats.
+   * Metric: mean_assigned_similarity and mean_assigned_margin.
+   * Insight: A similarity of ~0.35 is moderate for CLIP. The margin (difference between the top and second-best concept) is the most critical: if the margin is low (<0.01), the neuron is "ambiguous" and shouldn't be trusted as a single
+     concept.
+
+  C. Local Stability (Consistency)
+  Compare the Jaccard similarity of concepts between neighbor images.
+   * Metric: mean_filtered_jaccard vs. concept_consistency.
+   * Warning: Your report shows a high Jaccard (~0.99) but 0.0 concept consistency. This usually means most images have no concepts assigned (empty sets match perfectly), but when a concept is found, it fails to appear in similar images.
+     This suggests the activation threshold (Z-score > 1.5) might be too strict or the neurons are too noisy.
+
+  D. Concept Frequency (Generalness)
+  Review filtered_generalness.
+   * Goal: Ensure concepts aren't "always on" (e.g., a "normal" concept appearing in 100% of images) or "too rare" to be useful. 
+   * Recommendation: Categorize concepts into Core (specific/reliable) and Noise (ambiguous/inconsistent) to filter the final XAI output for clinicians.
+
+  Summary Proposal Template
+  > "The SAE successfully compressed CLIP embeddings with high sparsity, though only X% of neurons captured usable medical features. While semantic alignment is moderate (similarity=0.35), the current filtering strategy results in high
+  stability for empty sets but low consistency for detected pathologies. To improve reliability, I suggest [tuning the L1 penalty / lowering the Z-score threshold] to capture more granular features."
+
