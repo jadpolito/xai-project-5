@@ -1,0 +1,21 @@
+concept,image_fraction,generalness_label
+emphysema,0.508,broad
+lung opacity,0.4656666666666667,broad
+clear lungs,0.445,broad
+cardiac pacemaker,0.37633333333333335,broad
+left basilar atelectasis,0.348,broad
+right lung opacity,0.262,specific
+bibasilar atelectasis,0.222,specific
+pleural thickening,0.214,specific
+rib fracture,0.17966666666666667,specific
+chest tube,0.15633333333333332,specific
+normal chest x-ray,0.12733333333333333,specific
+atelectasis,0.111,specific
+small pleural effusion,0.09766666666666667,specific
+enlarged cardiac silhouette,0.06133333333333333,specific
+no acute cardiopulmonary abnormality,0.049666666666666665,specific
+pulmonary edema,0.045,specific
+nasogastric tube,0.036,specific
+left lower lobe consolidation,0.025333333333333333,specific
+right pleural effusion,0.022,specific
+left lung opacity,0.007,specific

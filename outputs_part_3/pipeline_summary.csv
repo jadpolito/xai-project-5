@@ -1,0 +1,2 @@
+raw_rows,filtered_rows,raw_images_with_concepts,filtered_images_with_concepts,raw_unique_concepts,filtered_unique_concepts,raw_mean_concepts_per_image,filtered_mean_concepts_per_image
+14978,11278,3000,2998,20,20,4.992666666666667,3.759333333333333
