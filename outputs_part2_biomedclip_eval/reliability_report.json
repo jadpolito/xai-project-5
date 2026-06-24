@@ -1,0 +1,304 @@
+{
+  "pipeline": {
+    "num_images": 3000,
+    "embedding_dim": 512,
+    "num_sae_neurons": 1024,
+    "dead_neurons": 604,
+    "too_rare_neurons": 631,
+    "always_on_neurons": 8,
+    "usable_neurons": 385,
+    "assigned_neurons": 279,
+    "ambiguous_neurons": 106
+  },
+  "image_concepts": {
+    "raw_rows": 14978,
+    "filtered_rows": 15000,
+    "raw_images_with_concepts": 3000,
+    "filtered_images_with_concepts": 3000,
+    "raw_unique_concepts": 20,
+    "filtered_unique_concepts": 20,
+    "raw_mean_concepts_per_image": 4.992666666666667,
+    "filtered_mean_concepts_per_image": 5.0
+  },
+  "semantic_alignment": {
+    "assigned_neurons": 279,
+    "ambiguous_neurons": 106,
+    "mean_assigned_similarity": 0.45257098914047295,
+    "median_assigned_similarity": 0.4534761309623718,
+    "mean_assigned_margin": 0.007573521051782861,
+    "median_assigned_margin": 0.006645321846008301,
+    "mean_ambiguous_similarity": 0.44934333354797,
+    "mean_ambiguous_margin": 0.000984798624830426
+  },
+  "similar_image_consistency": {
+    "k_neighbors": 5,
+    "mean_filtered_jaccard": 0.48720185185185194,
+    "median_filtered_jaccard": 0.42857142857142855,
+    "mean_raw_jaccard": 0.4610474867724868,
+    "median_raw_jaccard": 0.42857142857142855
+  },
+  "filtered_generalness": [
+    {
+      "concept": "lung opacity",
+      "image_count": 1815,
+      "image_fraction": 0.605,
+      "generalness_label": "broad"
+    },
+    {
+      "concept": "emphysema",
+      "image_count": 1732,
+      "image_fraction": 0.5773333333333334,
+      "generalness_label": "broad"
+    },
+    {
+      "concept": "clear lungs",
+      "image_count": 1687,
+      "image_fraction": 0.5623333333333334,
+      "generalness_label": "broad"
+    },
+    {
+      "concept": "cardiac pacemaker",
+      "image_count": 1509,
+      "image_fraction": 0.503,
+      "generalness_label": "broad"
+    },
+    {
+      "concept": "left basilar atelectasis",
+      "image_count": 1366,
+      "image_fraction": 0.4553333333333333,
+      "generalness_label": "broad"
+    },
+    {
+      "concept": "right lung opacity",
+      "image_count": 984,
+      "image_fraction": 0.328,
+      "generalness_label": "broad"
+    },
+    {
+      "concept": "rib fracture",
+      "image_count": 876,
+      "image_fraction": 0.292,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "bibasilar atelectasis",
+      "image_count": 868,
+      "image_fraction": 0.28933333333333333,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "pleural thickening",
+      "image_count": 792,
+      "image_fraction": 0.264,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "chest tube",
+      "image_count": 684,
+      "image_fraction": 0.228,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "normal chest x-ray",
+      "image_count": 489,
+      "image_fraction": 0.163,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "small pleural effusion",
+      "image_count": 447,
+      "image_fraction": 0.149,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "atelectasis",
+      "image_count": 412,
+      "image_fraction": 0.13733333333333334,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "enlarged cardiac silhouette",
+      "image_count": 356,
+      "image_fraction": 0.11866666666666667,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "pulmonary edema",
+      "image_count": 281,
+      "image_fraction": 0.09366666666666666,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "no acute cardiopulmonary abnormality",
+      "image_count": 218,
+      "image_fraction": 0.07266666666666667,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "nasogastric tube",
+      "image_count": 186,
+      "image_fraction": 0.062,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "left lower lobe consolidation",
+      "image_count": 132,
+      "image_fraction": 0.044,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "right pleural effusion",
+      "image_count": 98,
+      "image_fraction": 0.03266666666666666,
+      "generalness_label": "specific"
+    },
+    {
+      "concept": "left lung opacity",
+      "image_count": 68,
+      "image_fraction": 0.02266666666666667,
+      "generalness_label": "specific"
+    }
+  ],
+  "filtered_concept_consistency": [
+    {
+      "concept": "clear lungs",
+      "image_count": 1687,
+      "neighbor_checks": 8435,
+      "same_concept_neighbor_count": 7212,
+      "concept_consistency": 0.8550088915234143
+    },
+    {
+      "concept": "emphysema",
+      "image_count": 1732,
+      "neighbor_checks": 8660,
+      "same_concept_neighbor_count": 6976,
+      "concept_consistency": 0.8055427251732101
+    },
+    {
+      "concept": "normal chest x-ray",
+      "image_count": 489,
+      "neighbor_checks": 2445,
+      "same_concept_neighbor_count": 1762,
+      "concept_consistency": 0.7206543967280163
+    },
+    {
+      "concept": "left basilar atelectasis",
+      "image_count": 1366,
+      "neighbor_checks": 6830,
+      "same_concept_neighbor_count": 4663,
+      "concept_consistency": 0.6827232796486091
+    },
+    {
+      "concept": "bibasilar atelectasis",
+      "image_count": 868,
+      "neighbor_checks": 4340,
+      "same_concept_neighbor_count": 2767,
+      "concept_consistency": 0.6375576036866359
+    },
+    {
+      "concept": "chest tube",
+      "image_count": 684,
+      "neighbor_checks": 3420,
+      "same_concept_neighbor_count": 2180,
+      "concept_consistency": 0.6374269005847953
+    },
+    {
+      "concept": "cardiac pacemaker",
+      "image_count": 1509,
+      "neighbor_checks": 7545,
+      "same_concept_neighbor_count": 4772,
+      "concept_consistency": 0.6324718356527501
+    },
+    {
+      "concept": "lung opacity",
+      "image_count": 1815,
+      "neighbor_checks": 9075,
+      "same_concept_neighbor_count": 5639,
+      "concept_consistency": 0.6213774104683195
+    },
+    {
+      "concept": "atelectasis",
+      "image_count": 412,
+      "neighbor_checks": 2060,
+      "same_concept_neighbor_count": 1200,
+      "concept_consistency": 0.5825242718446602
+    },
+    {
+      "concept": "pleural thickening",
+      "image_count": 792,
+      "neighbor_checks": 3960,
+      "same_concept_neighbor_count": 2304,
+      "concept_consistency": 0.5818181818181818
+    },
+    {
+      "concept": "right lung opacity",
+      "image_count": 984,
+      "neighbor_checks": 4920,
+      "same_concept_neighbor_count": 2609,
+      "concept_consistency": 0.5302845528455284
+    },
+    {
+      "concept": "pulmonary edema",
+      "image_count": 281,
+      "neighbor_checks": 1405,
+      "same_concept_neighbor_count": 725,
+      "concept_consistency": 0.5160142348754448
+    },
+    {
+      "concept": "rib fracture",
+      "image_count": 876,
+      "neighbor_checks": 4380,
+      "same_concept_neighbor_count": 2156,
+      "concept_consistency": 0.4922374429223744
+    },
+    {
+      "concept": "no acute cardiopulmonary abnormality",
+      "image_count": 218,
+      "neighbor_checks": 1090,
+      "same_concept_neighbor_count": 503,
+      "concept_consistency": 0.4614678899082569
+    },
+    {
+      "concept": "enlarged cardiac silhouette",
+      "image_count": 356,
+      "neighbor_checks": 1780,
+      "same_concept_neighbor_count": 669,
+      "concept_consistency": 0.3758426966292135
+    },
+    {
+      "concept": "left lower lobe consolidation",
+      "image_count": 132,
+      "neighbor_checks": 660,
+      "same_concept_neighbor_count": 247,
+      "concept_consistency": 0.37424242424242427
+    },
+    {
+      "concept": "small pleural effusion",
+      "image_count": 447,
+      "neighbor_checks": 2235,
+      "same_concept_neighbor_count": 759,
+      "concept_consistency": 0.3395973154362416
+    },
+    {
+      "concept": "nasogastric tube",
+      "image_count": 186,
+      "neighbor_checks": 930,
+      "same_concept_neighbor_count": 267,
+      "concept_consistency": 0.2870967741935484
+    },
+    {
+      "concept": "right pleural effusion",
+      "image_count": 98,
+      "neighbor_checks": 490,
+      "same_concept_neighbor_count": 131,
+      "concept_consistency": 0.2673469387755102
+    },
+    {
+      "concept": "left lung opacity",
+      "image_count": 68,
+      "neighbor_checks": 340,
+      "same_concept_neighbor_count": 45,
+      "concept_consistency": 0.1323529411764706
+    }
+  ]
+}
